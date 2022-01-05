@@ -2,7 +2,7 @@
 
 ------------------------------------------
 
-<div align="center"><a href="https://corentinnrd.github.io/Portfolio-Corentin/"><img src="https://img.shields.io/badge/portfolio-ffffff?style=for-the-badge&logo=About&logoColor=black" /></a></div>
+<div align="center"><a href="https://corentinnrd.github.io/CorentinNordmann/"><img src="https://img.shields.io/badge/portfolio-ffffff?style=for-the-badge&logo=About&logoColor=black" /></a></div>
 
 ------------------------------------------
 <div align="center">
