@@ -1,7 +1,3 @@
-![Cover](https://user-images.githubusercontent.com/83210854/144871673-11d1e2ae-542f-43b9-81a7-0e986e283003.png)
-
-------------------------------------------
-
 <div align="center"><a href="https://corentinnrd.github.io/CorentinNordmann/"><img src="https://img.shields.io/badge/portfolio-ffffff?style=for-the-badge&logo=About&logoColor=black" /></a></div>
 
 ------------------------------------------
