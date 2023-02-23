@@ -1,7 +1,7 @@
 <div><a href="https://corentinnrd.github.io/CorentinNordmann/"><img src="https://img.shields.io/badge/portfolio-ffffff?style=for-the-badge&logo=About&logoColor=black" /></a></div>
 
 ------------------------------------------
-<div align="center">
+<div>
 
 ## Bonjour tout le monde 👨🏼‍💻
 
