@@ -43,9 +43,4 @@ Je touches à tout, aussi bien en front qu'en back, même si j'ai une petite pr�
 </p>
 
 ------------------------------------------
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Corentinnrd&show_icons=true&theme=radical) 
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corentinnrd&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
