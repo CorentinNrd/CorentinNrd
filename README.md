@@ -12,12 +12,6 @@ Je suis développeur web en formation à la web@cadémie by Epitech 👨🏼‍�
 <a href="mailto:corentinnordmann@gmail.com?subject=Bonjour%20Corentin"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-j'ai une passion pour les nouvelles technologies et l'espace.
-
-J'aime apprendre,<br>
-J'aime comprendre,<br>
-J'aime réussir<br>
-
 ------------------------------------------
 
 Je touches à tout, aussi bien en front qu'en back, même si j'ai une petite préference pour le front et le design.
